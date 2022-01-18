@@ -1,6 +1,5 @@
-## Create files and folders
+## Example
 
-Ex:
 ``
 fix(release): need to depend on latest rxjs and zone.js
 ``
